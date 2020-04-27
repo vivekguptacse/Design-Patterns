@@ -1,4 +1,4 @@
-package state;
+package behavioral.state;
 
 /**
  * This class act like a state, Which has behavior which will change based on

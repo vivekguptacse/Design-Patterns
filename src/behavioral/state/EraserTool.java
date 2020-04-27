@@ -1,4 +1,4 @@
-package state;
+package behavioral.state;
 
 /**
  * Concrete implementation of Tool state, it will Select Eraser and perform the action a Eraser can do.

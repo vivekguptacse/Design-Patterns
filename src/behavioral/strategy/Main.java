@@ -1,4 +1,4 @@
-package strategy;
+package behavioral.strategy;
 
 /**
  * Based on the specific Strategy, the Objects will be initiated.

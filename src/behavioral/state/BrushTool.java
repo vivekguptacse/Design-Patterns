@@ -1,4 +1,4 @@
-package state;
+package behavioral.state;
 
 /**
  * Concrete implementation of Tool state, it will Select Brush and perform the action a brush can do.

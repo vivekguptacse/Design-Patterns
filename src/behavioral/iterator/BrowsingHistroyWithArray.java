@@ -1,7 +1,4 @@
-package iterator;
-
-import java.util.ArrayList;
-import java.util.List;
+package behavioral.iterator;
 
 public class BrowsingHistroyWithArray
 {

@@ -1,4 +1,4 @@
-package state;
+package behavioral.state;
 
 /**
  * Concrete implementation of Tool state, it will Select Selection tool and perform the action a selection can do.

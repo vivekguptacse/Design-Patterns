@@ -1,4 +1,4 @@
-package state;
+package behavioral.state;
 
 /**
  * This class is Acts like a Context , where we have a state on which we want to perform some operation

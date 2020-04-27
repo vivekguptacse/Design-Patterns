@@ -1,4 +1,4 @@
-package iterator;
+package behavioral.iterator;
 
 /**
  * Interface Iterator whose main there responsibility to provide method for iterating underlying type
